@@ -1,8 +1,7 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,venv,django
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,venv,django
+# Created by https://www.toptal.com/developers/gitignore/api/python,venv,virtualenv,django
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,venv,virtualenv,django
 
 ### Django ###
-
 *.log
 *.pot
 *.pyc
@@ -276,4 +275,8 @@ pyrightconfig.json
 pyvenv.cfg
 pip-selfcheck.json
 
-# End of https://www.toptal.com/developers/gitignore/api/python,venv,django
+### VirtualEnv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+
+# End of https://www.toptal.com/developers/gitignore/api/python,venv,virtualenv,django
